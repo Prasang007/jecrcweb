@@ -1,0 +1,6 @@
+<section class="welcome-msg">
+    <h1 class="section-heading text-highlight"><span class="line">Welcome to JECRC</span></h1>
+    <p>“When education sees its course, a dream opens its eyes”, is the belief of the foundation under the aegis of which top engineering colleges in India are set up. Education is just a spark for which it ignites the minds and inflames the intellect. Ignited minds change the world and bring us a better tomorrow.It goes beyond developing one's knowledge and sharpening his skills as it paves the way for progress of a nation and its generations to come.
+        In the 15 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its students
+    </p>
+</section>
